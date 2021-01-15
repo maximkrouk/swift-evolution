@@ -1,6 +1,6 @@
 # Functional combinators (Draft)
 
-* Proposal: [SE-300](300-functional-combinators-to-standard-library.md)
+* Proposal: [SE-0300](0300-functional-combinators-to-standard-library.md)
 * Authors: [maximkrouk](https://github.com/maximkrouk)
 * Review Manager: TBD
 * Status: **Awaiting implementation**
