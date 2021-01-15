@@ -1,4 +1,4 @@
-# Functional combinators (Draft)
+# Functional combinators to Standard library (Draft)
 
 * Proposal: [SE-0300](0300-functional-combinators-to-standard-library.md)
 * Authors: [maximkrouk](https://github.com/maximkrouk)
